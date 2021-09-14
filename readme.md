@@ -24,6 +24,6 @@ You don't need to install any application, you could run it on replit.com. Just 
 
 Just run the code on replit.com.
 
-### Any optional sections
+### Additionals
 
 Hope this helps someone out there. : )
