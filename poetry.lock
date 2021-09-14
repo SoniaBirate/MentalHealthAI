@@ -1,0 +1,22 @@
+[[package]]
+name = "pyjokes"
+version = "0.6.0"
+description = "One line jokes for programmers (jokes as a service)"
+category = "main"
+optional = false
+python-versions = "*"
+
+[package.extras]
+doc = ["mkdocs"]
+test = ["pytest", "coverage", "tox"]
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.8"
+content-hash = "43b60bcbe658be1aa62036d12dffc02e5e12d41f4277044e3561d309b206d0c9"
+
+[metadata.files]
+pyjokes = [
+    {file = "pyjokes-0.6.0-py2.py3-none-any.whl", hash = "sha256:70b6125186dee5845038505cd16b5e09250da46c730e36b44ffd870e3c81aaaa"},
+    {file = "pyjokes-0.6.0.tar.gz", hash = "sha256:08860eedb78cbfa4618243c8db088f21c39823ece1fdaf0133e52d9c56e981a5"},
+]
